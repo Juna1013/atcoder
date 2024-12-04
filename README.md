@@ -6,3 +6,9 @@
 - まだ初心者なのでA・B問題しか解けていません…
 
 ### 使用言語
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python" />
+  </a>
+</div>
