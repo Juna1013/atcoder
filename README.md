@@ -5,10 +5,10 @@
 - 競プロで実装したコードをまとめています
 - まだ初心者なのでA・B問題しか解けていません…
 
-### 使用言語
+### 技術スタック
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,vscode,linux" />
   </a>
 </div>
