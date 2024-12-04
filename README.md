@@ -9,6 +9,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,vscode,linux,bash,wsl" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,vscode,linux,bash" />
   </a>
 </div>
