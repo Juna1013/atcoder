@@ -1,0 +1,35 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggest.showSnippets": false,
+    "editor.snippetSuggestions": "none",
+    "editor.wordBasedSuggestions": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.preview": false,
+    "github.copilot.enable": {
+        "*": false
+    },
+    "[c]": {
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        },
+        "editor.tabCompletion": "off",
+        "editor.acceptSuggestionOnTab": false,
+        "editor.inlineSuggest.enabled": false,
+        "editor.suggest.showSnippets": false,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "[cpp]": {
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        },
+        "editor.tabCompletion": "off",
+        "editor.acceptSuggestionOnTab": false,
+        "editor.inlineSuggest.enabled": false,
+        "editor.suggest.showSnippets": false,
+        "editor.wordBasedSuggestions": "off"
+    }
+}
