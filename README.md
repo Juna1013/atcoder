@@ -23,19 +23,19 @@ AtCoderの初級者〜中級者向けコンテスト。A〜G問題で構成。
 .
 ├── abc/                  # AtCoder Beginner Contest
 │   ├── abc001/           # ABC001
-│   │   └── a.cpp
+│   │   └── abc001_a.cpp
 │   ├── abc448/           # ABC448（例）
-│   │   ├── a.c
-│   │   ├── b.c
-│   │   ├── c.c
-│   │   └── d.c
+│   │   ├── abc448_a.c
+│   │   ├── abc448_b.c
+│   │   ├── abc448_c.c
+│   │   └── abc448_d.c
 │   └── ...
 ├── awc/                  # AtCoder Weekly Contest
 │   ├── awc0002/          # AWC0002
-│   │   ├── a.c
-│   │   ├── b.c
-│   │   ├── c.c
-│   │   └── d.c
+│   │   ├── awc0002_a.c
+│   │   ├── awc0002_b.c
+│   │   ├── awc0002_c.c
+│   │   └── awc0002_d.c
 │   └── ...
 └── README.md
 ```
